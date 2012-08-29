@@ -1,7 +1,8 @@
-finagle-thrift-flume-example
+Finagle Thrift Flume Example
 ============================
 
 Ejemplo con finagle + thrift (o http) + flume
+El servicio de finagle va implementado con Java
 
 
 Para ejecutar el cliente-servidor
